@@ -6,6 +6,8 @@ url: "Your-Link.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
+speaker_term: Facilitators
+
 facebook:
   app_id: 
 
