@@ -1,12 +1,12 @@
 ---
-title: Name
-name: Name-3
-subtitle: Position
+title: Fang-Jui Chang
+name: fang-jui-chang
+subtitle: Service / Interaction Designer, PDIS
 layout: 2017_default
 modal-id: 1
-img: TBD.jpg
-thumbnail: TBD.jpg
-alt: Picture of TBD
+img: fang-jui-chang.jpg
+thumbnail: fang-jui-chang.jpg
+alt: Picture of Fang-Jui Chang
 topic: Topic
 description: More Info
 ---
