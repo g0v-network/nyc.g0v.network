@@ -1,12 +1,12 @@
 ---
-title: Name
-name: Name-2
-subtitle: Position
+title: Shu Yang Lin
+name: shu-yang-lin
+subtitle: Public Service System Architect, PDIS
 layout: 2017_default
 modal-id: 1
-img: TBD.jpg
-thumbnail: TBD.jpg
-alt: Picture of TBD
+img: shu-yang-lin.jpg
+thumbnail: shu-yang-lin.jpg
+alt: Picture of Shu Yang Lin
 topic: Topic
 description: More Info
 ---
